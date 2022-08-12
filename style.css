@@ -1,0 +1,38 @@
+.blue-back {
+    background-color: blue;
+    color: yellow;
+}
+
+.highlights {
+    background-color: yellow;
+}
+
+.tabs-container {
+    text-align: center;
+    padding: 5%;
+}
+
+.tab-btn {
+    width: 15%;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+.tab-btn:hover {
+    background-color: rgb(25, 156, 233);
+}
+
+.data {
+    text-align: center;
+    margin: 10px;
+    margin-left: 28%;
+    padding: 5%;
+    border: 1px solid;
+    width: 34%;
+}
+
+.data {
+    display: none;
+}
